@@ -1,0 +1,35 @@
+<person>
+	<person1>
+		<name> John Carter </name>
+		<SL_No>23</SL_No>
+		<admisson_date>
+        <day>25</day>
+        <month>12</month>
+        <year>2015</year>
+        </admisson_date>
+		
+	</person1>
+	<person2>
+		<name> Bob Marshal </name>
+		<SL_No>29</SL_No>
+		<admisson_date>
+        <day>13</day>
+        <month>01</month>
+        <year>1999</year>
+        </admisson_date>
+		
+	</person2>
+	<person3>
+		<name> Clark kent </name>
+		<SL_No>35</SL_No>
+		<admisson_date>
+        <day>17</day>
+        <month>06</month>
+        <year>2005</year>
+        </admisson_date>
+		
+	</person3>
+    </person>
+	
+	
+	
